@@ -1,3 +1,9 @@
+# AppDirect account
+
+This Github account @lenmord is for my AppDirect work contributions.
+
+My personal Github for open source, projects, workshops, learning is @lenmorld
+
 - 👋 Hi, I’m @lenmord
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
